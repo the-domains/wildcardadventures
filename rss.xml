@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[wildcardadventures]]></title>
+        <description><![CDATA[wildcardadventures]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 21 Mar 2016 16:35:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This is the start of a new exploration. What is WildCard Adventures (WA)? The very first Wildcard has meanwhile been issued to Thom Westerink (14) in The Netherlands. WA will actively support Thom for a period up to 12 months max with finding, describing and manifesting his very own and very cool self-defined personal project. This website will follow Thom on his WildCard Adventure.</p>]]></description>
+            <link>undefinedthis-is-the-start-of-a-new-exploration-what-is-wildcard-adv/index.html</link>
+            <guid isPermaLink="false">f8e6b5b8-ccd2-4936-ad4a-1b6f49e602cb</guid>
+            <pubDate>Mon, 21 Mar 2016 16:35:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
